@@ -1,6 +1,6 @@
 from random import randint
 import tmdbsimple as tmdb
-tmdb.API_KEY = '6fff7e293df6a808b97101a26c86a545'
+tmdb.API_KEY = 'YOUR API'
 import requests
 import pandas as pd
 import vlc
